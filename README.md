@@ -59,7 +59,7 @@ As a part of the R&D team at **CyberGuard360**, my contributions included:
 ## 🚀 Deployment
 
 > 🌐 [Phishing Detection App](https://phishguard360.vercel.app/)  
-A user-friendly web interface that accepts email content and URLs for real-time phishing detection.
+A user-friendly web interface that accepts URLs for real-time phishing detection.
 
 ---
 
